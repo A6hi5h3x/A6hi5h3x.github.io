@@ -10,11 +10,10 @@
 ## Work Experience
 **Assistant Professor @ KL University Hyderabad (_June 2021 - June 2022_)**
 - Worked as an assistant professor in the CSE Department.
-- 
+  
 **Assistant Professor @ Parul University Vadodara Gujarat (_December 2015 - April 2021_)**
-
 - Worked as an assistant professor in the CSE Department.
--  
+- 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
