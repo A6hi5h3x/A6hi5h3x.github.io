@@ -1,6 +1,6 @@
-# Data Scientist
+# Research Scholar
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Research Area: Machine Learning, BigData
 
 ## Education
 - Ph.D.(Pursuing), CSE | IIT Indore M.P India								       		
