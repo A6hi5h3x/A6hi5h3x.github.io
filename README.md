@@ -1,21 +1,18 @@
-# Data Scientist
+# Research Scholar
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Research Area: Machine Learning, BigData
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D (Pursuing), Computer Science & Engineering | Indian Institute of Technology, Indore, Madhya Pradesh, India							
+- M.Tech., Communication & Information Technology	| National Institute of Technology, Srinagar, J&K, India	 			 	
+- B.Tech., Computer Science & Engineering | Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh, India
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+**Assistant Professor @ KL University Hyderabad (_June 2021 - June 2022_)**
+- Worked as an assistant professor in the CSE Department.
+**Assistant Professor @ Parul University Vadodara Gujarat (_December 2015 - April 2021_)**
+- Worked as an assistant professor in the CSE Department.
+- 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
