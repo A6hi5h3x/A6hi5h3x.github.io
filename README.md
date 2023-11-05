@@ -3,9 +3,9 @@
 #### Research Area: Machine Learning, BigData
 
 ## Education
-- Ph.D (Pursuing), Computer Science & Engineering | Indian Institute of Technology, Indore, Madhya Pradesh, India							
-- M.Tech., Communication & Information Technology	| National Institute of Technology, Srinagar, J&K, India	 			 	
-- B.Tech., Computer Science & Engineering | Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh, India
+- Ph.D (Pursuing), CSE | Indian Institute of Technology, Indore, Madhya Pradesh, India							
+- M.Tech., CIT	| National Institute of Technology, Srinagar, J&K, India	 			 	
+- B.Tech., CSE | Dr. A.P.J. Abdul Kalam Technical University, Uttar Pradesh, India
 
 ## Work Experience
 **Assistant Professor @ KL University Hyderabad (_June 2021 - June 2022_)**
