@@ -3,7 +3,7 @@
 #### Research Area: Machine Learning, BigData
 
 ## Education
-- Ph.D.(Pursuing), CSE | IIT Indore M.P India								       		
+- Ph.D.(P), CSE | IIT Indore M.P India								       		
 - M.Tech., CIT	| NIT Srinagar J&K India	 			        		
 - B.Tech., CSE | UPTU Lucknow India 
 
