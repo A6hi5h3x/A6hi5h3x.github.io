@@ -4,8 +4,8 @@
 
 ## Education
 - Ph.D.(Pursuing), CSE | IIT Indore M.P India								       		
-- M.S., Physics	| NIT Srinagar J&K India	 			        		
-- B.S., Physics | UPTU Lucknow India 
+- M.Tech., CIT	| NIT Srinagar J&K India	 			        		
+- B.Tech., CSE | UPTU Lucknow India 
 
 ## Work Experience
 **Teaching Assistant @ IIT Indore M.P India (_July 2022 - Present_)**
