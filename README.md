@@ -23,7 +23,7 @@
 ## M.Tech Projects
 ### Malware Analysis and Classification using Decision Tree classifier.
 
-Malware data are taken from Kaggle and performed for classification using the Decision Tree classifier, and compare the results with Naive Bayes and other classification models. The experiments are performed with the help of the Weka Data mining tool.
+Malware data are taken from Kaggle and performed classification using the Decision Tree classifier, and the results are compared with Naive Bayes and other classification models. The experiments are performed with the help of the Weka Data mining tool.
 
 
 
