@@ -3,5 +3,4 @@ logo: /assets/img/mypic.png
 description: Machine Learning and Big Data Lab 
 # show_downloads: true
 theme: jekyll-theme-Minimal
-github_username: A6hi5h3x
-github_profile_link: false
+custom_css: /assets/img/custom.css
